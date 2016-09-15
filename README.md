@@ -1,0 +1,2 @@
+# maj
+a mahjong game
